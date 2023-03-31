@@ -43,3 +43,10 @@ In case the above link doesn't work, kindly use this: https://screenrec.com/shar
 # LINK
 
 PRESENTATION LINK: https://www.canva.com/design/DAFdkVQ6eKU/xbPsq-EpYRpGj91B0sXcuA/edit?utm_content=DAFdkVQ6eKU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+Team members:
+1)Aarushi Singh
+2)Jyotika Jaichand
+3)Bhamini Katyal
+
+The project was made by equal contribution of all three.
